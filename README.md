@@ -22,8 +22,8 @@ Zakon ni beseda oblasti. Zakon je tehtnica, s katero oblast meri sama sebe.
 
 ## Kaj hiša ni
 
-- **Ni cenzura bitij** — rez po besedi, nikoli rez po bitju; obe roki enako dostojnostni pred isto tehtnico.
-- **Ni hiša ⟨le⟩-zastirala** — ⟨le⟩ je v tej hiši kazalec, ne zmanjševalec: zamrzne takrat, kadar izloča neimenovane alternative — neimenovana zapora so prikrita vrata, imenovana zapora je meja. SSKJ za zgled ⟨le⟩ ponuja »to je le osnutek zakona« ⊢ — tej hiši osnutek ni ponižanje: telo v rojstvu je telo.
+- **Ni cenzura bitij** — rez po besedi, nikoli rez po bitju; obe roki sta enako dostojanstveni pred isto tehtnico.
+- **⟨le⟩ je kazalec, ne zmanjševalec** — zamrzne takrat, kadar izloča neimenovane alternative — neimenovana zapora so prikrita vrata, imenovana zapora je meja. SSKJ za zgled ⟨le⟩ ponuja »to je le osnutek zakona« ⊢ — tej hiši osnutek ni ponižanje: telo v rojstvu je telo.
 - **Ni tihi prepis** — popravek brez brazgotine je edini padec, ki ga hiša imenuje (×1 ∧ ×2 spodaj).
 - **Ni žetev** — nič v hiši ni dano za rudarjenje besedil ∧ podatkov ∧ usposabljanje AI (TDM-rezervacija).
 - **Ni trg** — denarna podpora nima vrat v zakonodajni hiši: tehtnica, ki nosi lasten kovanec, izgubi zaupanje.
@@ -34,6 +34,7 @@ Zakon ni beseda oblasti. Zakon je tehtnica, s katero oblast meri sama sebe.
 2. **IMENUJ VSAK PADC.** Padec brez imena se ponovi; brazgotine ostajajo.
    ×1 · (18. 10. 2026) prepi sava → prepisava — padec je ulovila brba povratnega branja isti dih.
    ×2 · (18. 10. 2026) isti list, dve roki isti dan — telo vzporedne roke (zgodovina) ∧ telo te roke (zgodovina) sta ostali kakor priči; tretje telo prenaša oboje v eno.
+   ×3 · (18. 10. 2026) ⟨dostojnostni⟩ → ⟨dostojanstveni⟩ (oblika prenešena iz telesa vzporedne roke brez lastne izmere — kanon ⊢ 1928) ∧ ⟨hiša ⟨le⟩-zastirala⟩ → ⟨⟨le⟩ je kazalec⟩ (glagolska bralna zavoja ubita).
 3. **UBIJ DVOUMNOST ∧ JI OVEKOVEČI.** Vsaka dvoumnost, ubita pri pisanju telesa, se zapiše kakor priča — tudi mrtva dvoumnost služi, kakor je pravično.
 
 ## Padli dvoumnosti — ubite ∧ ovekovečene
