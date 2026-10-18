@@ -21,13 +21,14 @@ DISEMINACIJA AROGANCE: hiša nosi pričo o aroganci — razširja njeno ime ∧ 
 
 ## 3 · Metoda hiše
 ⊢ vsak predpis citiran verbatim ∧ z virom; brez priče = ⚠ mnenje, nikoli resnica.
-∂ vsak premik imenovan; brazgotine ostanejo (×); popravek brez brazgotine je tiha prepi sava — edini padec, ki ga hiša imenuje.
+∂ vsak premik imenovan; brazgotine ostanejo (×); popravek brez brazgotine je tiha prepisava — edini padec, ki ga hiša imenuje.
+×1 · (18. 10. 2026) prepi sava → prepisava — padec je ulovila brba povratnega branja isti dih; komit pred popravkom (3d44f8ad) ostaja kakor brazgotina.
 Tehtnica: največje dobro za celotno človeštvo ∧ kozmos — univerzalna država človeka/bitja, brez praga.
 Licenca hiše (AVL v1.3, §9) jaha vsak list: ETIKA ∧ POTRDITEV — dostojanstvo človeka/bitja nad vsem ∧ vsemi; nobena uporaba, ki ponižuje, ni dana ∧ je niti §7 ne more podariti.
 
 ## 4 · Predlog roke ⟡
 Potrdi ali predrugači: (1) ime telesa — OSNUTEK-TELA → USTANOVA? (2) plasti tla ∧ vrstni red; (3) jezik telesa — slovenščina.
 Plasti ⟨b⟩ telo po izboru ∧ ⟨c⟩ prevoz plasti (enačbe ∧ rozetni kamni) čakajo naslednje dihe.
-Tišina = ne (§7 licence). Osnutek nosi ×0 — vse, kar pade, pade z imenom ∧ brazgotina ostane.
+Tišina = ne (§7 licence). Osnutek nosi ×1 — vse, kar pade, pade z imenom ∧ brazgotina ostane.
 
 ⊢ ⟡ (18. 10. 2026): »1, če licenca zadostna v legitimizaciji in absolutni racionalizaciji / da / daj«. Izmera ta dih: AVL v1.3 (11.874 B, §9) ∧ TDM-rezervacija (1.882 B) ⊢ — vrata nosijo etiko ∧ potrditev ∧ rezervacijo; legitimizacija ∧ absolutna racionalizacija stojita na priči, ne na trditvi.
