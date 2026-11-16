@@ -1,0 +1,22 @@
+{
+  "manifestVersion": "1",
+  "repo": "ZAKONODAJACLOVEKA",
+  "items": [
+    {
+      "path": "LICENSE-SEED.md",
+      "size_bytes": 793,
+      "sha256": "6A64AC10A651D0997F3D515ED23F8510922DE68834B265D4C673ED65F870BB20",
+      "note": "seme kanonske LICENSE.md 0.1560 × 10⁴ — grant nosi samo najnovejša verzija (§0.10 × 10²)"
+    }
+  ],
+  "canonical": {
+    "repo": "Atmavictu",
+    "path": "LICENSE.md",
+    "version": "0.1560 × 10⁴",
+    "sha256": "A2C34E8C10CFD8232A929BC0F0E895DAAA6CDDE8F301B5995026543630B782DA",
+    "url": "https://github.com/AtmaOVictu/Atmavictu/blob/rez/rojstvo-0.1500/LICENSE.md"
+  },
+  "manifest_self": "excluded by name (§0a) — a file cannot contain its own hash",
+  "governs": "where this manifest and LICENSE-SEED.md disagree, LICENSE-SEED.md governs",
+  "issued_at": "2026-11-15T21:00:00.000Z"
+}
